@@ -20,6 +20,6 @@ https://github.com/MariiaS3/Game_TicTacToe-android/assets/72567148/36dde20e-28f7
   </li>
 </ul>
 
-<img src="img/home.png" alt="home page">
-<img src="img/game.png" alt="game page">
+<img src="img/home.png" alt="home page" style="width: 400px">
+<img src="img/game.png" alt="game page" style="width: 400px">
 
