@@ -2,6 +2,8 @@
 
 <h1>Project - game TicTacToe</h1>
 
+https://github.com/MariiaS3/Game_TicTacToe-android/assets/72567148/36dde20e-28f7-4f4c-be08-3e0233dd080e
+
 <h2>TODO:</h2>
 <ul>
   <li>
@@ -17,8 +19,6 @@
     The user can choose two modes: play in pairs or solo.
   </li>
 </ul>
-
-https://github.com/MariiaS3/Game_TicTacToe-android/assets/72567148/36dde20e-28f7-4f4c-be08-3e0233dd080e
 
 <img src="img/home.png" alt="home page">
 <img src="img/game.png" alt="game page">
