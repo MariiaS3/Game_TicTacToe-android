@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF6200EE</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorBackground">#1E2336</color>
+    <color name="colorButton">#F8D320</color>
+    <color name="colorBox">#B7B4E7</color>
+    <color name="colorText">#6D717D</color>
+    <color name="colorScore">#E4E4FF</color>
+    <color name="pink">#FF6378</color>
+    <color name="o_color">#D0004F</color>
+    <color name="x_color">#FF3700B3</color>
+</resources>
